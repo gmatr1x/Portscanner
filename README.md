@@ -19,7 +19,7 @@ The Port Scanner is a Python program that allows you to scan ports on a specifie
 
 4. Run the program by executing the following command: 
  
-           python port_scanner.py
+           python3 port_scanner.py
            
 
 5. You will be prompted to **enter** the IP address you want to scan and the number of ports to scan.
